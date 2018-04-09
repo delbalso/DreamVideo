@@ -1,1 +1,4 @@
 .bsync*
+*/results/*
+*.pb
+*.mat

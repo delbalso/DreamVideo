@@ -1,2 +1,2 @@
 #!/bin/bash
-ma codesync --last /Users/delbalso/projects/bees --ignore /Users/delbalso/projects/bees/keras-retinanet/  
+ma codesync --last /Users/delbalso/projects/dream/src -ig *.pb *.mat
